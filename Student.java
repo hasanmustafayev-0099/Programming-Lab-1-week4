@@ -16,8 +16,5 @@ public String ID;
         System.out.println("Student ID: " + ID + ", Name: " + name);
     }
 
-    @Override
-    public String toString() {
-        return "student name : " + name + " id: " + ID;
-    }
+
 }
