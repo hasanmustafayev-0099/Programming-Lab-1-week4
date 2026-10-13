@@ -32,9 +32,4 @@ public String courseName;
             System.out.println();
         }
     }
-
-    @Override
-    public String toString() {
-        return "course name : " + courseName + "  capacity: " + capacity;
-    }
 }
